@@ -11,7 +11,7 @@
 
 
 ### 📚 Project description
-This web application is a simple taxi service
+This web application is an immitation of an simple taxi service
 with authentication, registration, and CRUD operations.
 It is developed using SOLID
 principles and the Dependency Injection pattern.
